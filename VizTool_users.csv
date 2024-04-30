@@ -1,197 +1,264 @@
-﻿Country,Region,Users,New users,Engaged sessions,Engagement rate,Engaged sessions per user,Average engagement time,Event count
-United States,Washington,209,201,30,0.129310345,0.14354067,5.023923445,910
-United States,Wyoming,207,204,18,0.086538462,0.086956522,2.555555556,758
-United States,Virginia,186,181,36,0.18,0.193548387,4.204301075,867
-United States,Florida,151,144,88,0.405529954,0.582781457,38.94701987,1001
-United States,Maryland,145,126,114,0.476987448,0.786206897,40.85517241,1186
-United States,Texas,138,132,31,0.216783217,0.224637681,8.18115942,549
-United States,Iowa,125,119,22,0.176,0.176,4.472,468
-United States,California,120,113,59,0.398648649,0.491666667,23.89166667,673
-United States,Hawaii,77,75,53,0.410852713,0.688311688,30.38961039,602
-United States,Massachusetts,52,49,35,0.52238806,0.673076923,29.96153846,333
-United States,New York,51,47,23,0.328571429,0.450980392,10.84313725,296
-United States,North Carolina,44,36,35,0.514705882,0.795454545,30.63636364,327
-United States,South Carolina,40,36,25,0.423728814,0.625,29.6,287
-United States,District of Columbia,36,32,29,0.491525424,0.805555556,32.77777778,267
-Puerto Rico,San Juan,29,26,15,0.365853659,0.517241379,25.13793103,185
-United Kingdom,England,23,23,16,0.5,0.695652174,22.17391304,150
-United States,Pennsylvania,17,17,16,0.484848485,0.941176471,35.35294118,211
-United States,Colorado,16,12,10,0.5,0.625,26.125,107
-United States,Illinois,16,15,11,0.611111111,0.6875,20.25,89
-U.S. Virgin Islands,St. Thomas,14,12,7,0.388888889,0.5,21.92857143,95
-United States,New Jersey,14,12,11,0.611111111,0.785714286,18.85714286,91
-United States,Oregon,14,14,7,0.388888889,0.5,11.5,83
-United States,Georgia,13,11,8,0.421052632,0.615384615,43.84615385,93
-United States,Minnesota,13,13,11,0.523809524,0.846153846,26.53846154,122
-Australia,Queensland,12,11,5,0.357142857,0.416666667,30.91666667,67
-China,(not set),11,7,11,0.647058824,1,89.45454545,108
-Puerto Rico,(not set),10,10,8,0.533333333,0.8,43.8,84
-Costa Rica,San Jose Province,9,9,5,0.555555556,0.555555556,17.33333333,48
-Dominican Republic,(not set),9,8,1,0.066666667,0.111111111,18.11111111,53
-France,Ile-de-France,9,9,0,0,0,0,44
-Guam,None,9,8,6,0.352941176,0.666666667,9.888888889,63
-United States,Michigan,9,9,7,0.583333333,0.777777778,19,54
-United States,Ohio,9,6,5,0.333333333,0.555555556,17,75
-American Samoa,Western District,8,7,2,0.25,0.25,2.625,34
-Australia,Australian Capital Territory,8,8,0,0,0,0,37
-United States,Kansas,8,8,0,0,0,0,31
-United States,Louisiana,8,8,7,0.636363636,0.875,20.625,52
-Australia,New South Wales,7,7,3,0.333333333,0.428571429,56.42857143,42
-Australia,Victoria,7,7,0,0,0,0,25
-Netherlands,North Holland,7,7,2,0.285714286,0.285714286,12.57142857,29
-U.S. Virgin Islands,St. Croix,7,7,4,0.444444444,0.571428571,11.57142857,41
-United States,Mississippi,7,4,3,0.333333333,0.428571429,11.42857143,33
-Ireland,County Dublin,6,5,1,0.166666667,0.166666667,0.166666667,23
-United States,Arizona,6,6,2,0.222222222,0.333333333,12.83333333,34
-United States,Missouri,6,5,3,0.5,0.5,10.66666667,31
-Indonesia,Jakarta,5,5,2,0.285714286,0.4,42.8,38
-Puerto Rico,Mayaguez,5,4,1,0.2,0.2,31.8,25
-United States,Alabama,5,4,4,0.571428571,0.8,10.8,30
-United States,Kentucky,5,4,1,0.142857143,0.2,12.8,31
-United States,Wisconsin,5,4,0,0,0,0,19
-Canada,British Columbia,4,4,2,0.5,0.5,44.5,18
-Canada,Quebec,4,4,4,1,1,31.75,26
-Colombia,Antioquia,4,4,2,0.333333333,0.5,7.75,28
-Germany,Hessen,4,4,1,0.25,0.25,0,16
-United States,Connecticut,4,4,2,0.4,0.5,4,20
-United States,Delaware,4,3,3,0.6,0.75,15.5,27
-United States,Indiana,4,4,2,0.4,0.5,7,23
-United States,New Hampshire,4,3,1,0.2,0.25,3,19
-United States,Tennessee,4,3,1,0.166666667,0.25,1.25,20
-Colombia,Bogota,3,3,3,0.75,1,35.33333333,25
-France,Provence-Alpes-Cote d'Azur,3,3,2,0.666666667,0.666666667,56.66666667,14
-Germany,Berlin,3,3,3,0.375,1,23.66666667,32
-Japan,Tokyo,3,2,0,0,0,0,11
-Mexico,Mexico City,3,3,2,0.666666667,0.666666667,77,15
-Norway,Vestland,3,3,1,0.333333333,0.333333333,0,18
-United States,(not set),3,3,1,0.333333333,0.333333333,5.666666667,13
-United States,Maine,3,1,3,1,1,55.33333333,19
-United States,Oklahoma,3,2,1,0.25,0.333333333,0,11
-United States,Rhode Island,3,3,2,0.4,0.666666667,17,22
-Austria,Vienna,2,2,0,0,0,0,7
-Barbados,(not set),2,2,2,0.666666667,1,10.5,18
-Brazil,State of Sao Paulo,2,2,2,1,1,60.5,10
-Canada,Ontario,2,2,2,1,1,9,10
-China,Fujian,2,1,2,1,1,88,20
-China,Shanghai,2,2,3,0.5,1.5,144.5,37
-China,Tianjin,2,2,3,1,1.5,120,27
-Egypt,Menofia Governorate,2,2,0,0,0,0,8
-Germany,North Rhine-Westphalia,2,2,2,1,1,9.5,12
-Hong Kong,(not set),2,2,2,1,1,121,12
-India,Tamil Nadu,2,2,2,1,1,36,17
-Indonesia,East Nusa Tenggara,2,2,1,0.125,0.5,18,35
-Israel,South District,2,2,0,0,0,0,10
-Jamaica,St. Andrew Parish,2,1,0,0,0,0,12
-Mexico,Quintana Roo,2,2,1,0.5,0.5,0,12
-Norway,Oslo,2,2,0,0,0,0,10
-Panama,(not set),2,2,3,0.6,1.5,47,20
-Philippines,Metro Manila,2,2,1,0.5,0.5,69,10
-Poland,Masovian Voivodeship,2,2,1,0.5,0.5,3,10
-Saudi Arabia,Makkah Province,2,2,4,0.666666667,2,295.5,34
-Sweden,Norrbotten County,2,2,0,0,0,0,8
-Switzerland,Zurich,2,2,0,0,0,0,8
-Taiwan,Kaohsiung City,2,2,2,1,1,44,10
-Taiwan,Taipei City,2,2,1,0.5,0.5,6,9
-Turkey,Ankara,2,2,1,0.333333333,0.5,14,15
-Turkey,Istanbul,2,2,1,0.5,0.5,42,12
-United Kingdom,Scotland,2,2,1,0.5,0.5,29.5,12
-United States,Arkansas,2,2,2,1,1,3,12
-United States,Idaho,2,2,3,0.6,1.5,60,28
-United States,Montana,2,2,1,0.333333333,0.5,0.5,11
-United States,Nevada,2,2,2,1,1,14.5,11
-United States,New Mexico,2,2,0,0,0,0,10
-United States,West Virginia,2,0,0,0,0,0,6
-Vietnam,Ho Chi Minh City,2,2,1,0.5,0.5,71.5,20
-American Samoa,Eastern District,1,1,1,1,1,37,5
-Argentina,Mendoza Province,1,1,0,0,0,0,4
-Australia,Western Australia,1,1,0,0,0,0,4
-Belgium,Wallonia,1,1,0,0,0,0,4
-Brazil,State of Ceara,1,1,0,0,0,0,6
-Canada,Nova Scotia,1,1,0,0,0,0,4
-Cayman Islands,(not set),1,1,1,1,1,36,5
-Chile,Santiago Metropolitan Region,1,1,0,0,0,0,6
-China,Beijing,1,1,1,1,1,10,5
-China,Jiangsu,1,1,0,0,0,0,4
-Colombia,Magdalena,1,1,0,0,0,0,4
-Colombia,San Andres and Providencia,1,1,0,0,0,0,4
-Costa Rica,(not set),1,1,0,0,0,0,7
-Croatia,Split-Dalmatia County,1,1,0,0,0,0,4
-CuraÃ§ao,(not set),1,1,1,1,1,16,6
-Cyprus,Limassol,1,1,0,0,0,4,5
-Cyprus,Nicosia,1,1,0,0,0,0,6
-Dominican Republic,Barahona Province,1,1,0,0,0,0,4
-Dominican Republic,La Altagracia Province,1,1,1,1,1,17,5
-Egypt,Red Sea Governorate,1,1,0,0,0,0,4
-Egypt,Suez Governorate,1,1,0,0,0,0,4
-Finland,Uusimaa,1,1,1,1,1,39,5
-France,Bourgogne-Franche-Comte,1,1,0,0,0,0,4
-France,Nouvelle-Aquitaine,1,1,0,0,0,0,4
-French Polynesia,(not set),1,1,1,1,1,23,7
-Germany,Baden-Wurttemberg,1,0,0,0,0,0,3
-Germany,Hamburg,1,1,0,0,0,0,4
-Germany,Rhineland-Palatinate,1,1,0,0,0,0,4
-Germany,Saxony,1,0,0,0,0,0,3
-Greece,(not set),1,1,0,0,0,0,4
-Greece,Decentralized Administration of Macedonia and Thrace,1,1,1,1,1,21,5
-Guadeloupe,Basse-Terre,1,1,1,1,1,14,5
-India,Maharashtra,1,1,1,1,1,340,5
-Indonesia,Bali,1,0,0,0,0,0,1
-Indonesia,North Sumatra,1,0,0,0,0,0,9
-Indonesia,West Java,1,1,1,1,1,8,5
-Indonesia,West Nusa Tenggara,1,0,0,0,0,0,10
-Indonesia,West Papua,1,1,1,0.5,1,16,9
-Ireland,County Galway,1,1,0,0,0,0,4
-Italy,Emilia-Romagna,1,1,1,1,1,30,5
-Italy,Lazio,1,1,1,1,1,18,7
-Italy,Lombardy,1,1,0,0,0,0,4
-Jamaica,Westmoreland Parish,1,1,0,0,0,0,4
-Maldives,(not set),1,1,0,0,0,0,4
-Maldives,Male,1,1,0,0,0,0,6
-Marshall Islands,(not set),1,1,0,0,0,0,4
-Mexico,San Luis Potosi,1,1,0,0,0,0,4
-Mexico,Yucatan,1,1,0,0,0,0,4
-Mozambique,Maputo,1,1,1,1,1,12,5
-New Zealand,Auckland,1,1,1,1,1,22,5
-New Zealand,Otago,1,1,1,1,1,30,5
-Norway,More og Romsdal,1,1,1,1,1,90,5
-Norway,Rogaland,1,1,0,0,0,4,5
-Norway,Troms og Finnmark fylke,1,1,1,1,1,29,5
-Papua New Guinea,East New Britain Province,1,1,1,0.125,1,0,26
-Papua New Guinea,National Capital District,1,1,0,0,0,0,7
-Peru,Lima Province,1,1,2,0.5,2,38,16
-Philippines,(not set),1,1,1,1,1,64,14
-Philippines,Bicol,1,1,1,1,1,180,13
-Philippines,Calabarzon,1,1,1,1,1,4,5
-Philippines,Central Luzon,1,1,1,1,1,58,7
-Philippines,Central Visayas,1,1,0,0,0,0,4
-Philippines,Western Visayas,1,1,0,0,0,0,4
-Portugal,Coimbra District,1,1,0,0,0,0,4
-Puerto Rico,Cabo Rojo,1,1,0,0,0,5,5
-Puerto Rico,Caguas,1,0,1,1,1,13,4
-Romania,Cluj County,1,1,1,1,1,147,5
-RÃ©union,Saint-Pierre,1,0,0,0,0,0,5
-Samoa,(not set),1,1,0,0,0,0,6
-Slovenia,Ljubljana,1,1,0,0,0,0,12
-South Africa,Western Cape,1,1,0,0,0,0,4
-South Korea,Gyeonggi-do,1,1,0,0,0,9,5
-Spain,Catalonia,1,1,1,1,1,29,5
-Spain,Valencian Community,1,1,1,1,1,12,6
-St. Martin,(not set),1,1,1,1,1,2,5
-Sweden,Stockholm County,1,1,1,1,1,138,10
-Tanzania,(not set),1,1,1,1,1,35,7
-Thailand,Chanthaburi,1,1,0,0,0,0,4
-Thailand,Krabi,1,0,0,0,0,0,2
-Thailand,Narathiwat,1,1,0,0,0,0,4
-Thailand,Pattani,1,0,0,0,0,0,1
-Thailand,Prachuap Khiri Khan,1,1,0,0,0,0,4
-Thailand,Satun,1,1,0,0,0,0,3
-Trinidad & Tobago,(not set),1,1,0,0,0,0,4
-United Arab Emirates,Abu Dhabi,1,1,0,0,0,0,7
-United Kingdom,Wales,1,1,0,0,0,0,4
-United States,Alaska,1,1,0,0,0,0,4
-United States,Nebraska,1,1,0,0,0,0,4
-United States,Vermont,1,1,1,1,1,16,5
-Vietnam,Khanh Hoa,1,1,1,1,1,537,5
-Jamaica,St. Ann Parish,0,0,0,0,0,0,2
-Malaysia,Terengganu,0,0,0,0,0,0,2
-Spain,Galicia,0,0,0,0,0,0,2
+Country,Region,Views,Total users,Engaged sessions,Engagement rate,Views per user,Sessions per user,Event count per user,Event count,Average session duration
+United States,Maryland,923,263,283,0.5484496124,3.57751938,2,11.07364341,2857,2064.383103
+United States,Florida,663,264,181,0.4617346939,2.55984556,1.513513514,8.227799228,2131,1580.710931
+United States,California,382,183,102,0.4112903226,2.146067416,1.393258427,6.662921348,1186,1023.440592
+United States,Hawaii,372,159,112,0.4571428571,2.4,1.580645161,7.793548387,1208,1258.481638
+United States,Virginia,320,264,70,0.2272727273,1.212121212,1.166666667,5.340909091,1410,867.4251133
+United States,Washington,258,252,51,0.1789473684,1.032,1.14,4.632,1158,391.5638517
+United States,South Carolina,241,74,52,0.4601769912,3.256756757,1.527027027,7.945945946,588,1173.223076
+United States,Massachusetts,164,81,59,0.5619047619,2.05,1.3125,7.0875,567,1527.048128
+United States,District of Columbia,161,76,60,0.4838709677,2.118421053,1.631578947,7.263157895,552,1328.322556
+United States,North Carolina,150,65,49,0.49,2.34375,1.5625,7.40625,474,1454.478118
+United States,Colorado,127,43,27,0.4029850746,3.023809524,1.595238095,8.547619048,359,1962.560314
+United States,Texas,121,152,39,0.2422360248,0.8013245033,1.066225166,4.410596026,666,552.1637997
+Puerto Rico,San Juan,121,85,25,0.2450980392,1.44047619,1.214285714,5.226190476,439,867.0394641
+United States,New York,119,74,42,0.42,1.630136986,1.369863014,6.178082192,451,1098.075168
+United States,Pennsylvania,115,24,20,0.487804878,4.791666667,1.708333333,10.54166667,253,451.911877
+United States,Oregon,93,55,27,0.3033707865,1.690909091,1.618181818,6.309090909,347,464.7738941
+United States,Wyoming,93,212,19,0.08920187793,0.4386792453,1.004716981,3.66509434,777,14.70555932
+United States,Georgia,78,38,20,0.4166666667,2.108108108,1.297297297,7.297297297,270,663.6661803
+United Kingdom,England,65,33,25,0.5,1.96969697,1.515151515,7,231,1278.800555
+United States,Minnesota,64,17,16,0.5714285714,4,1.75,10.5625,169,1208.500878
+China,(not set),56,17,14,0.6363636364,3.5,1.375,8.375,134,1148.569732
+United States,Iowa,55,128,23,0.1796875,0.4296875,1,3.7421875,479,24.02202022
+Saudi Arabia,Makkah Province,52,8,11,0.3793103448,7.428571429,4.142857143,17.14285714,120,345.8698404
+U.S. Virgin Islands,St. Thomas,43,20,12,0.5,2.15,1.2,6.2,124,568.1612952
+United States,Ohio,43,16,8,0.347826087,2.6875,1.4375,7.625,122,936.6891016
+United States,Illinois,43,26,17,0.5862068966,1.72,1.16,5.76,144,1363.873982
+United States,New Jersey,37,21,13,0.5,1.761904762,1.238095238,5.952380952,125,368.175531
+Guam,(not set),35,26,15,0.3658536585,1.346153846,1.576923077,6.192307692,161,566.5680334
+Australia,Queensland,34,17,11,0.5,2,1.294117647,6.529411765,111,526.9990003
+Japan,Tokyo,33,6,7,0.7,5.5,1.666666667,13,78,578.6178949
+United States,Louisiana,33,17,12,0.6315789474,2.0625,1.1875,6.1875,99,836.8016446
+United States,Nebraska,31,5,10,0.5263157895,6.2,3.8,21.4,107,1192.576476
+France,Ile-de-France,30,34,0,0,0.8823529412,1.147058824,4,136,18.71060595
+Hong Kong,(not set),29,4,5,0.8333333333,7.25,1.5,19.5,78,1315.757653
+United States,Missouri,28,10,8,0.6666666667,2.8,1.2,8.1,81,578.5884081
+Australia,New South Wales,27,11,7,0.5,2.454545455,1.272727273,6.909090909,76,242.6768919
+Puerto Rico,(not set),26,14,10,0.5882352941,1.857142857,1.214285714,6.857142857,96,2389.468666
+United States,Michigan,24,15,13,0.619047619,1.6,1.4,6.6,99,433.5007017
+Germany,North Rhine-Westphalia,23,7,7,0.7,3.285714286,1.428571429,9.428571429,66,796.0185147
+United States,Arizona,23,12,7,0.4666666667,1.916666667,1.25,6.25,75,514.1922877
+China,Shanghai,21,2,3,0.5,10.5,3,18.5,37,419.049623
+United States,Indiana,21,10,6,0.5454545455,2.333333333,1.222222222,8.444444444,76,2129.033014
+China,Tianjin,19,3,4,1,6.333333333,1.333333333,10.66666667,32,253.7611957
+China,Hebei,18,3,2,0.6666666667,6,1,16,48,362.9879493
+Indonesia,Jakarta,18,7,2,0.2222222222,3,1.5,7.333333333,44,456.6809344
+United States,Wisconsin,17,12,2,0.09523809524,1.416666667,1.75,6.083333333,73,1329.870774
+United States,Idaho,16,3,4,0.6666666667,5.333333333,2,11,33,117.0423504
+India,Maharashtra,16,7,6,0.8571428571,2.285714286,1,6.571428571,46,2320.019964
+United States,Kentucky,16,7,1,0.0625,2.285714286,2.285714286,7.714285714,54,104.2287717
+United States,Tennessee,16,8,4,0.3636363636,2,1.375,5.875,47,931.822014
+Indonesia,East Nusa Tenggara,15,2,1,0.125,7.5,4,17.5,35,55.99763575
+Vietnam,Ho Chi Minh City,15,3,2,0.6666666667,5,1,10,30,327.00766
+United States,Mississippi,15,10,6,0.4,1.5,1.5,6.6,66,321.1462845
+Philippines,(not set),14,2,2,1,7,1,11,22,165.78063
+China,Fujian,14,3,3,1,4.666666667,1,9.666666667,29,380.7412195
+Dominican Republic,(not set),14,10,1,0.06666666667,1.4,1.5,5.3,53,77.60723357
+Canada,British Columbia,14,7,4,0.5,2,1.142857143,6.857142857,48,863.6740592
+Indonesia,Banten,13,2,2,0.5,6.5,2,14.5,29,239.0933313
+India,Tamil Nadu,13,3,3,1,4.333333333,1,8.666666667,26,854.6846005
+United States,Alaska,13,5,1,0.1428571429,2.6,1.4,6.2,31,18.426667
+Costa Rica,San Jose Province,13,9,5,0.5555555556,1.444444444,1,5.333333333,48,2062.799823
+U.S. Virgin Islands,St. Croix,13,8,4,0.4,1.625,1.25,5.625,45,127.7430133
+United States,(not set),12,12,7,0.5833333333,1,1,4.75,57,81.47772417
+Switzerland,Zurich,12,4,2,0.4,3,1.25,7.5,30,471.224868
+United States,Kansas,12,14,0,0,0.8571428571,1,3.857142857,54,16.89728387
+France,(not set),11,12,0,0,0.9166666667,1,3,36,0
+Indonesia,Bali,11,4,4,0.4444444444,2.75,2.25,9.5,38,858.3627568
+Germany,Berlin,11,4,3,0.3333333333,2.75,2.25,9,36,28.12240314
+United States,Connecticut,10,7,4,0.5714285714,1.666666667,1.166666667,5.666666667,34,140.6320768
+American Samoa,Western District,10,9,3,0.3,1.111111111,1.111111111,5,45,94.57943293
+United States,Maine,10,6,5,0.8333333333,1.666666667,1,5.5,33,1529.119518
+United States,Alabama,9,7,6,0.6,1.285714286,1.428571429,5.857142857,41,227.1527956
+Czechia,Prague,8,2,2,1,4,1,9,18,770.786823
+Malaysia,Selangor,8,2,2,1,4,1,8.5,17,663.340614
+Papua New Guinea,East New Britain Province,8,1,1,0.125,8,8,26,26,6.40423575
+Colombia,Antioquia,8,5,2,0.3333333333,1.6,1.2,5.6,28,23.877896
+Puerto Rico,Mayaguez,8,6,2,0.3333333333,1.333333333,1,5,30,196.5625083
+United States,Montana,8,3,3,0.5,2.666666667,2,8.333333333,25,199.0271722
+Australia,Australian Capital Territory,8,11,1,0.07142857143,0.7272727273,1.272727273,4.363636364,48,14.68631383
+United States,New Hampshire,8,6,3,0.3333333333,1.333333333,1.5,5.666666667,34,386.2093657
+Brazil,State of Rio de Janeiro,7,5,4,0.8,1.4,1,5.6,28,299.6990155
+United States,Delaware,7,4,3,0.6,1.75,1.25,6.75,27,93.8289362
+Philippines,Bicol,7,1,1,1,7,1,13,13,912.200819
+Canada,Quebec,7,5,5,1,1.4,1,6,30,44.5769835
+Colombia,Magdalena,7,3,1,0.2,2.333333333,1.666666667,7.333333333,22,120.158661
+United States,Rhode Island,7,3,2,0.4,2.333333333,1.666666667,7.333333333,22,112.995205
+Colombia,Bogota,7,4,4,0.8,1.75,1.25,7.75,31,1195.654162
+Netherlands,North Holland,7,9,4,0.4444444444,0.7777777778,1,4.666666667,42,76.45122267
+Timor-Leste,Dili,6,2,2,1,3,1,7.5,15,170.959174
+Greece,Attica,6,3,2,0.4,2,1.666666667,7.333333333,22,112.9371413
+Ireland,County Dublin,6,6,1,0.1666666667,1,1,3.833333333,23,11.77769633
+Panama,(not set),6,2,3,0.6,3,2.5,10,20,362.065617
+United States,Nevada,6,4,2,0.5,1.5,1,4.75,19,13.393811
+Türkiye,Ankara,5,2,1,0.3333333333,2.5,1.5,7.5,15,20.86871233
+Barbados,(not set),5,2,2,0.6666666667,2.5,1.5,9,18,218.121815
+Italy,Lombardy,5,3,1,0.3333333333,1.666666667,1,4.666666667,14,43.5234165
+Tanzania,(not set),5,2,1,0.3333333333,2.5,1.5,7,14,56.810895
+Spain,Region of Murcia,5,2,2,1,2.5,1,7,14,394.55603
+United States,Oklahoma,5,5,2,0.3333333333,1,1.2,4,20,677.3134545
+Philippines,Metro Manila,5,5,2,0.4,1,1,4.8,24,113.503753
+Germany,Hessen,5,5,1,0.2,1,1,4,20,12.34214333
+Canada,Newfoundland and Labrador,4,2,3,0.6,2,2.5,10.5,21,91.8397614
+Brazil,State of Bahia,4,2,2,0.6666666667,2,1.5,6.5,13,443.661172
+Norway,Vestland,4,3,1,0.3333333333,1.333333333,1,6,18,6.229554667
+Poland,Masovian Voivodeship,4,2,1,0.5,2,1,5,10,8.668884
+Indonesia,West Papua,4,1,1,0.5,4,2,9,9,13.200165
+Peru,Lima Province,4,1,2,0.5,4,4,16,16,129.0608208
+Australia,Victoria,4,7,0,0,0.5714285714,1,3.571428571,25,1.793530286
+Mexico,Quintana Roo,4,3,1,0.3333333333,1.333333333,1,5.333333333,16,101.3844415
+Brazil,State of Sao Paulo,4,4,3,0.75,1,1,4.75,19,732.602426
+Indonesia,West Java,4,4,2,0.5,1,1,4.25,17,91.986144
+United States,Arkansas,4,2,2,1,2,1,6,12,119.540362
+United States,New Mexico,4,4,2,0.4,1,1.25,5,20,416.754312
+Jamaica,St. Andrew Parish,4,4,0,0,1,1.25,3.75,15,13.50105067
+Puerto Rico,Ponce,3,3,1,0.3333333333,1,1,3.666666667,11,5.052982
+France,Grand Est,3,1,1,1,3,1,9,9,168.955436
+Philippines,Region XII,3,2,2,0.5,1.5,2,7.5,15,356.4658255
+India,Telangana,3,1,1,1,3,1,7,7,48.438718
+China,Guangdong Province,3,4,3,0.75,0.75,1,5.25,21,444.4278395
+Slovenia,Ljubljana,3,1,0,0,3,4,12,12,3.953418
+Sweden,Stockholm County,3,1,1,1,3,1,10,10,176.421657
+Indonesia,North Sumatra,3,1,0,0,3,3,9,9,5.488870333
+French Polynesia,(not set),3,1,1,1,3,1,7,7,24.163673
+Türkiye,Istanbul,3,2,1,0.5,1.5,1,6,12,60.313116
+France,Provence-Alpes-Cote d'Azur,3,3,2,0.6666666667,1,1,4.666666667,14,225.1399453
+Philippines,Central Luzon,3,1,1,1,3,1,7,7,338.784385
+Spain,Valencian Community,3,1,1,1,3,1,6,6,18.93291
+Italy,Lazio,3,1,1,1,3,1,7,7,20.103085
+Germany,Saxony,3,3,0,0,1,1,3.666666667,11,9.966167
+United Kingdom,Scotland,3,3,1,0.3333333333,1,1,5,15,40.875661
+Taiwan,Taipei City,3,3,2,0.6666666667,1,1,6,18,182.4776375
+Canada,Ontario,3,3,3,1,1,1,5.666666667,17,315.5831715
+Singapore,(not set),3,2,2,0.5,1.5,2,7.5,15,31.93632933
+Papua New Guinea,National Capital District,3,2,1,0.3333333333,1.5,1.5,7,14,668.792999
+United Kingdom,Wales,3,3,1,0.3333333333,1,1,4.333333333,13,38.574434
+Mexico,Mexico City,3,3,2,0.6666666667,1,1,5,15,284.855805
+Israel,South District,3,3,1,0.25,1,1.333333333,8.666666667,26,680.910066
+Japan,Hiroshima,2,1,1,1,2,1,10,10,62.595874
+Thailand,(not set),2,1,1,1,2,1,6,6,626.715091
+Puerto Rico,Carolina,2,3,2,0.6666666667,0.6666666667,1,3,9,443.03738
+Thailand,Bangkok,2,2,2,0.6666666667,1,1.5,7,14,15.35641367
+Philippines,Davao Region,2,2,2,0.6666666667,1,1.5,6,12,83.35082967
+Brazil,State of Espirito Santo,2,1,1,1,2,1,7,7,17.934884
+Venezuela,Sucre,2,1,1,1,2,1,6,6,199.141696
+Caribbean Netherlands,Bonaire,2,2,0,0,1,1,3.5,7,2.624101
+Taiwan,Kaohsiung City,2,2,2,1,1,1,5,10,419.5892295
+Sweden,Norrbotten County,2,2,0,0,1,1,4,8,5.846663
+United States,West Virginia,2,2,0,0,1,1,3,6,4.549831
+Costa Rica,(not set),2,1,0,0,2,2,7,7,4.743868
+Norway,Oslo,2,3,0,0,1,1.5,5,10,1.240946
+United Arab Emirates,Abu Dhabi,2,1,0,0,2,2,7,7,5.565921
+Indonesia,West Nusa Tenggara,2,1,0,0,2,4,10,10,2.4787265
+Egypt,Menofia Governorate,2,2,0,0,1,1,4,8,0.4101835
+United States,Utah,2,2,2,1,1,1,6,12,565.698547
+Maldives,(not set),2,3,0,0,1,1.5,5,10,9.918442
+Trinidad & Tobago,(not set),2,2,0,0,1,1,3.5,7,4.835492
+Maldives,Male,2,2,1,0.3333333333,1,1.5,6,12,81.585202
+Austria,Vienna,2,3,0,0,0.6666666667,1,3.666666667,11,4.891628
+France,Nouvelle-Aquitaine,2,2,1,0.5,1,1,4.5,9,332.392628
+Hungary,Hajdu-Bihar,1,1,0,0,1,1,4,4,5.108512
+United Kingdom,(not set),1,1,0,0,1,1,4,4,6.19122
+Tanzania,Arusha Region,1,1,0,0,1,2,6,6,2.33459
+Taiwan,Yilan County,1,1,0,0,1,1,4,4,5.032444
+Myanmar (Burma),Shan,1,1,1,1,1,1,6,6,841.193612
+Martinique,Le Marin,1,1,0,0,1,1,4,4,4.211175
+Japan,Shimane,1,1,0,0,1,1,3,3,5.280895
+Japan,Niigata,1,1,0,0,1,1,3,3,5.312982
+Japan,Hokkaido,1,1,0,0,1,1,4,4,5.365637
+Indonesia,East Java,1,1,0,0,1,1,3,3,5.98491
+India,Karnataka,1,1,1,1,1,1,7,7,1087.561186
+India,Delhi,1,1,0,0,1,1,4,4,5.039469
+United States,North Dakota,1,1,0,0,1,1,5,5,3.581928
+Puerto Rico,Guayama,1,1,0,0,1,1,3,3,5.484621
+India,Kerala,1,1,0,0,1,1,5,5,9.924819
+Bermuda,Pembroke Parish,1,1,0,0,1,2,6,6,2.6776435
+United Kingdom,Northern Ireland,1,1,1,1,1,1,8,8,98.960582
+Seychelles,(not set),1,1,1,1,1,1,4,4,30.531251
+Russia,Saint Petersburg,1,1,0,0,1,1,5,5,5.334915
+Netherlands,South Holland,1,1,1,1,1,1,4,4,853.672762
+Ireland,County Kildare,1,1,0,0,1,1,5,5,8.853831
+Bulgaria,Sofia City Province,1,1,0,0,1,1,4,4,7.217464
+Mexico,Baja California,1,1,1,1,1,1,6,6,14.643133
+Greece,Decentralized Administration of Attica,1,1,0,0,1,1,6,6,9.979652
+Vietnam,Da Nang,1,1,0,0,1,1,4,4,7.599826
+Brazil,Ceara,1,2,0,0,0.5,1,3.5,7,4.2271415
+Thailand,Chumphon,1,1,1,1,1,1,8,8,294.473662
+Switzerland,Geneva,1,1,0,0,1,1,4,4,8.049173
+Sweden,Vastra Gotaland County,1,1,1,0.5,1,2,6,6,9.5453105
+Spain,Community of Madrid,1,1,1,1,1,1,7,7,3299.825566
+Brazil,State of Pernambuco,1,1,1,1,1,1,5,5,15.227481
+Puerto Rico,Bayamon,1,1,1,1,1,1,20,20,46.713216
+Indonesia,West Kalimantan,1,1,1,1,1,1,5,5,86.033133
+Philippines,Northern Mindanao,1,1,2,1,1,2,7,7,13.219114
+Peru,La Libertad,1,1,1,1,1,1,5,5,33.223623
+Ethiopia,(not set),1,1,1,1,1,1,5,5,918.140972
+Norfolk Island,(not set),1,1,1,1,1,1,5,5,141.380245
+Mexico,Yucatan,1,1,0,0,1,1,4,4,4.308088
+Thailand,Narathiwat,1,1,0,0,1,1,4,4,4.479227
+Egypt,Suez Governorate,1,1,0,0,1,1,4,4,5.046959
+Egypt,Red Sea Governorate,1,1,0,0,1,1,4,4,4.79584
+Dominican Republic,La Altagracia Province,1,1,1,1,1,1,5,5,47.061924
+Belgium,Wallonia,1,1,0,0,1,1,4,4,4.95103
+Greece,(not set),1,1,0,0,1,1,4,4,4.960404
+Marshall Islands,(not set),1,1,0,0,1,1,4,4,4.861522
+Dominican Republic,Barahona Province,1,1,0,0,1,1,4,4,4.988595
+Greece,Decentralized Administration of Macedonia and Thrace,1,1,1,1,1,1,5,5,27.093811
+Mexico,San Luis Potosi,1,1,0,0,1,1,4,4,4.903422
+Cyprus,Nicosia,1,1,0,0,1,2,6,6,2.455835
+Mozambique,Maputo,1,1,1,1,1,1,5,5,1539.417615
+Cyprus,Limassol,1,1,0,0,1,1,5,5,4.944171
+Curaçao,(not set),1,1,1,1,1,1,6,6,74.667251
+New Zealand,Auckland,1,1,1,1,1,1,5,5,347.494565
+New Zealand,Otago,1,1,1,1,1,1,5,5,117.149427
+Vietnam,Khanh Hoa,1,1,1,1,1,1,5,5,712.435733
+Norway,More og Romsdal,1,1,1,1,1,1,5,5,427.053486
+Norway,Rogaland,1,1,0,0,1,1,5,5,8.08798
+Norway,Troms og Finnmark fylke,1,1,1,1,1,1,5,5,29.62238
+Ireland,County Galway,1,1,0,0,1,1,4,4,4.781368
+Canada,Nova Scotia,1,1,0,0,1,1,4,4,4.963183
+Philippines,Calabarzon,1,1,1,1,1,1,5,5,21.837341
+American Samoa,Eastern District,1,1,1,1,1,1,5,5,556.798509
+Philippines,Western Visayas,1,1,0,0,1,1,4,4,5.219865
+Portugal,Coimbra District,1,1,0,0,1,1,4,4,4.642956
+Cayman Islands,(not set),1,1,1,1,1,1,5,5,121.944549
+France,Bourgogne-Franche-Comte,1,1,0,0,1,1,4,4,4.970838
+Puerto Rico,Cabo Rojo,1,1,0,0,1,1,5,5,5.520609
+Puerto Rico,Caguas,1,1,1,1,1,1,4,4,99.101511
+Romania,Cluj County,1,1,1,1,1,1,5,5,214.467446
+Colombia,San Andres and Providencia,1,1,0,0,1,1,4,4,6.51949
+Réunion,Saint-Pierre,1,1,0,0,1,2,5,5,2.5385625
+Samoa,(not set),1,1,0,0,1,2,6,6,2.299605
+China,Jiangsu,1,1,0,0,1,1,4,4,4.738301
+Argentina,Mendoza Province,1,1,0,0,1,1,4,4,4.741734
+South Korea,Gyeonggi-do,1,1,0,0,1,1,5,5,9.24709
+Brazil,State of Ceara,1,1,0,0,1,2,6,6,2.6993655
+Spain,Catalonia,1,1,1,1,1,1,5,5,367.164814
+St. Martin,(not set),1,1,1,1,1,1,5,5,454.407682
+Germany,Rhineland-Palatinate,1,1,0,0,1,1,4,4,5.191715
+Thailand,Prachuap Khiri Khan,1,1,0,0,1,1,4,4,4.76388
+China,Beijing,1,1,1,1,1,1,5,5,28.358823
+Thailand,Pattani,1,1,0,0,1,1,1,1,0
+Guadeloupe,Basse-Terre,1,1,1,1,1,1,5,5,14.368825
+Thailand,Chanthaburi,1,1,0,0,1,1,4,4,5.408038
+Jamaica,Westmoreland Parish,1,1,0,0,1,1,4,4,5.139252
+Chile,Santiago Metropolitan Region,1,1,0,0,1,2,6,6,2.7400915
+Germany,Baden-Wurttemberg,1,1,0,0,1,1,3,3,5.579759
+South Africa,Western Cape,1,1,0,0,1,1,4,4,3.593087
+Croatia,Split-Dalmatia County,1,1,0,0,1,1,4,4,9.374793
+Italy,Emilia-Romagna,1,1,1,1,1,1,5,5,30.408844
+Italy,Tuscany,1,1,0,0,1,1,5,5,5.587953
+United States,Vermont,1,1,1,1,1,1,5,5,528.400458
+Australia,Western Australia,1,1,0,0,1,1,4,4,4.774661
+Germany,Hamburg,1,1,0,0,1,1,4,4,4.948403
+Philippines,Central Visayas,1,2,0,0,0.5,1,3.5,7,12.940827
+Finland,Uusimaa,1,2,1,0.5,0.5,1,4.5,9,44.986698
+Martinique,Fort-de-France,0,1,0,0,null,null,null,2,0
+Australia,(not set),0,2,0,0,0,1,3,6,0
+Thailand,Krabi,0,1,0,0,0,1,2,2,0
+Thailand,Satun,0,1,0,0,0,1,3,3,0
+Malaysia,Terengganu,0,1,0,0,null,null,null,2,0
+China,Zhejiang,0,1,0,0,0,1,2,2,0
+Jamaica,St. Ann Parish,0,1,0,0,null,null,null,2,0
+Spain,Galicia,0,1,0,0,null,null,null,2,0
